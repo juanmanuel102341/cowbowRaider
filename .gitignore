@@ -37,3 +37,5 @@ ehthumbs.db
 /algoritmo.xlsx
 /~$algoritmo.xlsx
 Library
+*.hxproj
+export
